@@ -1,2 +1,6 @@
-# twitter-bot
-twitter bot to upload anything you want to an account
+# Jim the Twitter Bot
+
+## Languages: JavaScript (Node.js)
+
+## Description:
+Twitter bot to upload random images from a directory to twitter with a custom description.
